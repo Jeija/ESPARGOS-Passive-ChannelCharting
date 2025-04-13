@@ -1,0 +1,9 @@
+espargos-0007
+__pycache__
+.ipynb_checkpoints
+aoa_estimates
+clutter_channel_estimates
+dissimilarity_matrices
+triangulation_estimates
+training_animation
+training_animation_augmented
