@@ -6,7 +6,9 @@ This repository contains partial source code for the results presented in the pa
 
 > <a href="https://arxiv.org/abs/2504.09924">Florian Euchner, David Kellner, Phillip Stephan, Stephan ten Brink: "Passive Channel Charting: Locating Passive Targets using Wi-Fi Channel State Information"</a>
 
-submitted to the IEEE Workshop on Signal Processing and Artificial Intelligence in Wireless Communications (SPAWC 2025) and <a href="https://arxiv.org/abs/2504.09924">available as a preprint on arXiv</a>.
+accepted for presentation at the 26th IEEE Workshop on Signal Processing and Artificial Intelligence in Wireless Communications (SPAWC 2025) and <a href="https://arxiv.org/abs/2504.09924">available as a preprint on arXiv</a>.
+
+The <a href="poster.pdf">presentation poster</a> providing a visual overview of our work is also available for download. 
 
 ## Summary
 
@@ -103,11 +105,12 @@ You may choose to skip step 2 if you are not interested in the supervised traini
 ## Citation
 
 ```
-@misc{euchner2025passive,
-	title  = {{Passive Channel Charting: Locating Passive Targets using Wi-Fi Channel State Information}},
+@inproceedings{euchner2025passive,
+	title = {{Passive Channel Charting: Locating Passive Targets using Wi-Fi Channel State Information}},
 	author = {Euchner, Florian and Kellner, David and Stephan, Phillip and ten Brink, Stephan},
-	year   = {2025},
-	url    = {https://arxiv.org/abs/2504.09924}
+	year = {2025},
+	booktitle = {26th IEEE Workshop on Signal Processing and Artificial Intelligence in Wireless Communications (SPAWC 2025)},
+	url = {https://arxiv.org/abs/2504.09924}
 }
 ```
 
